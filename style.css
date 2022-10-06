@@ -1,1 +1,21 @@
+body {
+    text-align: center;
+    background: rgb(172, 119, 119)
+}
+.capa{
+    width: 90%
+}
 
+.beneficios{
+    text-align: left;
+    background-color: black;
+    color: aliceblue;
+
+}
+ul{
+    display:inline-block;
+    vertical-align: top;
+}
+.foto-beneficios{
+    width: 40%;
+}
